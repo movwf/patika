@@ -1,0 +1,4 @@
+﻿Bilgisayar,20
+Tablet,10
+iMac,30
+MacBook,15

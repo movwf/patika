@@ -1,0 +1,5 @@
+Ahmet,91
+Kamil,1
+Lutfu,21
+Niyazi,1
+Kerim,36

@@ -1,0 +1,8 @@
+﻿KullaniciAdi,Yas,Sifre
+Ahmet,18,123
+Kemal,18,123
+Lutfu,18,123
+Mahmut,18,123
+Lutfu,20,123
+Niyazi,22,123
+Kerim,19,123
